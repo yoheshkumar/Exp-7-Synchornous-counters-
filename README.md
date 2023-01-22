@@ -99,23 +99,6 @@ end
 assign counter=counter_down;
 endmodule
 ```
-## RTL realization and output
-
-## RTL
-### upcounter
-![output](./uprtl.png)
-### downcounter
-![output](./downrtl.png)
-
-
-## Truth Table
-### upcounter
-![output](./ttup.png)
-### downcounter
-![output](./ttdown.png)
-
-
-
 
 
 ### RTL LOGIC UP COUNTER AND DOWN COUNTER  
